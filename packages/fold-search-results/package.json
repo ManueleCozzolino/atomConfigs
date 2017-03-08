@@ -1,0 +1,71 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-117123-32756-7w8x4c/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-117123-32756-7w8x4c/package.tgz",
+        "spec": "/tmp/d-117123-32756-7w8x4c/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-117123-32756-6kq11f"
+    ]
+  ],
+  "_from": "../d-117123-32756-7w8x4c/package.tgz",
+  "_id": "fold-search-results@1.0.5",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/fold-search-results",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-117123-32756-7w8x4c/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-117123-32756-7w8x4c/package.tgz",
+    "spec": "/tmp/d-117123-32756-7w8x4c/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117123-32756-7w8x4c/package.tgz",
+  "_shasum": "991365675562d81b0383ece1d5c1bfe715780c96",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-117123-32756-7w8x4c/package.tgz",
+  "_where": "/tmp/apm-install-dir-117123-32756-6kq11f",
+  "activationCommands": {
+    "atom-workspace": [
+      "project-find:show",
+      "project-find:toggle",
+      "project-find:show-in-current-directory"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/whoisthecoon/atom-fold-search-results/issues"
+  },
+  "dependencies": {},
+  "description": "Collapse all search results",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/whoisthecoon/atom-fold-search-results#readme",
+  "keywords": [
+    "search results",
+    "toggle search results"
+  ],
+  "license": "MIT",
+  "main": "./lib/atom-fold-search-results.js",
+  "name": "fold-search-results",
+  "optionalDependencies": {},
+  "readme": "# atom-fold-search-results\n\nCollapse all your global search results for a better reading.\n\n![screenshot](https://raw.githubusercontent.com/whoisthecoon/atom-fold-search-results/master/resources/screenshot.gif)\n\n## Installation\n\n```\napm install fold-search-results\n```\n\nOr using the settings view in Atom.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whoisthecoon/atom-fold-search-results.git"
+  },
+  "version": "1.0.5"
+}

@@ -4,7 +4,9 @@ How to import atom's configs:
 
 - replace the repo files with the ones that already exist in the local .atom folder;
 - execute the importation command:
-`apm install 'cat packages.list'`
+```
+apm install `cat packages.list`
+```
 
 
 
