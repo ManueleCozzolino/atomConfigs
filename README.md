@@ -9,5 +9,5 @@ How to import atom's configs:
 
 
 ## Committing instructions:
-Everytime a new package is added/removed, you need to export the new version of teh packages list file:
+- Everytime a new package is added/removed, you need to export the new version of the packages list file and upload it on the repo:
 `apm list --installed --bare > packages.list`
