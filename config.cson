@@ -1,0 +1,17 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "b736fc84-3368-40be-ac9a-25c62171fad1"
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+  editor: {}
+  "exception-reporting":
+    userId: "b2926259-10f8-b14a-e1ef-827aaadcbc38"
+  linter:
+    showErrorPanel: false
+  welcome:
+    showOnStartup: false
